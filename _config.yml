@@ -2,3 +2,4 @@ title: pinetree408
 author: pinetree408
 
 markdown: redcarpet
+permalink: /:year/:month/:day/:title
