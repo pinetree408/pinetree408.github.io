@@ -12,7 +12,7 @@ Git를 사용하여 프로젝트를 진행하면서 점점 gitignore에 등록�
 
 아래의 명령을 사용하면 곧바로 설정이 적용된다. 푸시를 하게되면 저장소에 이미 올라가있는 파일들도 삭제된다.
 
-``` sh
+```sh
 $ git rm -r --cached .
 $ git add .
 $ git commit -m "fixed untracked files"
