@@ -1,7 +1,7 @@
 ---
 layout: post
-maintitle: django query set
-subtitle: django query set 공부하기
+maintitle: emotiondiary refactorying
+subtitle: emotiondiary refactorying 기술 stack
 ---
 
 ## What issuse
