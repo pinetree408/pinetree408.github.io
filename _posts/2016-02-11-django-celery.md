@@ -6,7 +6,7 @@ subtitle: make web crawler with django & celery
 
 ## What issuse
 
-web crawler를 만들기 위해서 django 와 celery 를 사용하였다.
+user celery & django for web crawler
 
 ## How to study
 

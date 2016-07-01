@@ -1,7 +1,7 @@
 ---
 layout: post
 maintitle: emotiondiary refactorying
-subtitle: emotiondiary refactorying 기술 stack
+subtitle: emotiondiary refactorying tech stack
 ---
 
 ## What issuse

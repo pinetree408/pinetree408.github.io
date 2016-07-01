@@ -6,7 +6,7 @@ subtitle: using python code convention with pep8
 
 ## What issuse
 
-python code convetion 관리를 위하여 pep8을 사용하였다.
+use pep8 for python code convetion
 
 ## How to study
 
