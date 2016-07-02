@@ -18,36 +18,36 @@ I want to use window for django server
 
     Computer > property > advance > path
 
-    ```sh
-    C:\Python27\;C:\Python27\Scripts\
-    ```
+        ```
+        C:\Python27\;C:\Python27\Scripts\
+        ```
 
 3. Install virtualenv in CMD
 
-    ```sh
-    pip install virtualenv
-    ```
+        ```
+        pip install virtualenv
+        ```
 
 4. Run Virtualenv
 
-    ```sh
-    <virtualenv_name>\Scripts\activate
-    ```
+        ```
+        <virtualenv_name>\Scripts\activate
+        ```
 
 5. Install django with pip
 
-    ```sh
-    pip install django==1.8
-    ```
+        ```
+        pip install django==1.8
+        ```
 
 6. Make Project
 
-    ```sh
-    python C:\Path\To\<virtualenv_name>\Scripts\django-admin.py startproject <project_name>
-    ```
+        ```
+        python C:\Path\To\<virtualenv_name>\Scripts\django-admin.py startproject <project_name>
+        ```
 
 7. Now Runserver!
 
-    ```sh
-    python manage.py runserver
-    ```
+        ```
+        python manage.py runserver
+        ```
