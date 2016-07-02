@@ -1,5 +1,5 @@
 title: pinetree408
 author: pinetree408
 
-markdown: redcarpet
+markdown: kramdown
 permalink: /:year/:month/:day/:title
