@@ -1,7 +1,7 @@
 ---
 layout: post
 maintitle: django query set
-subtitle: django query set 공부하기
+subtitle: study for django query set
 ---
 
 ## What issuse
