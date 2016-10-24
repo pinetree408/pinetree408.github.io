@@ -1,12 +1,12 @@
 ---
 layout: post
 maintitle: pip install to mac
-subtitle: mac에 pip install 하기
+subtitle: how to install pip in mac env
 ---
 
 ## What issuse
 
-mac에 python pip 설치하기
+install pip in mac env.
 
 ## How to fix
 
