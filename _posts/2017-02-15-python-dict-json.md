@@ -15,6 +15,7 @@ javascript에서는 추가의 후처리없이 바로 property들을 call해서 �
 
 ## 해결방안
 어쩔 수 없이, json을 다시 dict을 바꾸어 사용하니 해결되었다.
+
 ### json to dict
 
 ```python
