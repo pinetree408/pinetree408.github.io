@@ -2,7 +2,6 @@
 layout: about
 ---
 
-<div markdown="1">
 ### Lee Sangyoon
 
 #### Contact
@@ -43,4 +42,3 @@ layout: about
 
 - naver/pinpoint, Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java, [github](https://github.com/naver/pinpoint)
 - konlpy/konlpy, Python package for Korean natural language processing, [github](https://github.com/pinetree408)
-</div>
