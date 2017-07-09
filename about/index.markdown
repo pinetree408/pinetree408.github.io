@@ -66,3 +66,8 @@ layout: about
   - Contribution in developing the web application.
 - Kim, et al. "Application of the Machine Learning Algorithm to Electronic Structure Calculations: A Test Case of B/N-doped Graphene", kps, 2016
   - Contribution in developing the web application & machine learning techniques
+
+## Teaching
+### Teaching Assistant
+- 2016 Fall, Compiler Design, CS420 in KAIST
+- 2016 Spring, Programming Principles, CS220 in KAIST
