@@ -1,49 +1,80 @@
 ---
-layout: default
-title: Sang-Yoon's Blog
+# You don't need to edit this file, it's empty on purpose.
+# Edit whiteglass' home layout instead if you want to make some changes.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
 ---
-
-<!-- Page Header -->
-<!-- Set your background image for this header on the line below. -->
-<header class="intro-header" style="background-image: url('img/home-bg.jpg')">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-				<div class="site-heading">
-					<h1>Sang-Yoon's Blog</h1>
-					<hr class="small">
-					<span class="subheading">This blog is being maintained.</span>
-				</div>
-			</div>
-		</div>
-	</div>
-</header>
-
-<!-- Main Content -->
-<div class="container">
-	<div class="row">
-		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-			{% for post in site.posts %}
-			<div class="post-preview">
-				<a href="{{ post.url }}">
-					<h2 class="post-title">
-						{{ post.maintitle }}
-					</h2>
-					<h3 class="post-subtitle">
-						{{ post.subtitle }}
-					</h3>
-				</a>
-				<p class="post-meta">Posted by <a href="#">Lee Sang-Yoon</a> on {{ post.date | date_to_string }}</p>
-			</div>
-			<hr>
-			{% endfor %}
-
-               <!-- Pager -->
-                <ul class="pager">
-                    <li class="next">
-                        <a href="#">Older Posts &rarr;</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
+<h3>Sangyoon Lee</h3>
+<hr/>
+<table>
+  <tr>
+    <td><b>Research Interests</b></td>
+    <td>HCI</td>
+  </tr>
+  <tr>
+    <td><b>Education<b/></td>
+    <td>
+      <table>
+        <tr>
+          <td>KAIST</td>
+          <td>Dajeon, Korea</td>
+        </tr>
+        <tr>
+          <td>Ph.D. student in Computer Science</td>
+          <td>Mar. 2018 - Present</td>
+        </tr>
+        <tr>
+          <td><i>Advisor</i></td>
+          <td>Geehyuk Lee, Ph.D.</td>
+        </tr>
+        <tr>
+          <td>KAIST</td>
+          <td>Dajeon, Korea</td>
+        </tr>
+        <tr>
+          <td>M.S. in Computer Science</td>
+          <td>2018</td>
+        </tr>
+        <tr>
+          <td><i>Advisor</i></td>
+          <td>Geehyuk Lee, Ph.D.</td>
+        </tr>
+        <tr>
+          <td>KAIST</td>
+          <td>Dajeon, Korea</td>
+        </tr>
+        <tr>
+          <td>B.S. in Computer Science</td>
+          <td>2016</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Publications</b></td>
+    <td>
+      <ul>
+        <li>Domestic Conference
+          <ul>
+            <li>An experimental comparison of user postures between tabletbased reading activities and book- based reading activities
+              <ul>
+                <li><b>Sangyoon Lee</b></li>
+                <li>KCC 2015</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>International Conference
+          <ul>
+            <li>Auto-switching List Search Interface for Touchscreen Smartwatches
+              <ul>
+                <li>Jingun Jung, <b>Sangyoon Lee</b>, Sunggeun Ahn, and Geehyuk Lee</li>
+                <li>MobileHCI 2018</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>

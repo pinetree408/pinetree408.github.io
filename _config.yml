@@ -1,5 +1,34 @@
-title: pinetree408
+title: Pinetree408
 author: pinetree408
+email: pinetree408@gmail.com
+baseurl: ""
+url: "http://pinetree408.github.io/"
+theme: jekyll-whiteglass
+timezone: UTC
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - Rakefile
+  - spec
+  - vendor
+
+plugins:
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
 
 markdown: kramdown
-permalink: /:year/:month/:day/:title
+
+permalink: /:year/:month/:day/:title/
+paginate_path: /posts/:num/
+paginate: 5
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
