@@ -3,7 +3,8 @@ author: pinetree408
 email: pinetree408@gmail.com
 baseurl: ""
 url: "http://pinetree408.github.io/"
-theme: jekyll-whiteglass
+remote_theme: yous/whiteglass
+# theme: jekyll-whiteglass
 timezone: UTC
 exclude:
   - Gemfile
