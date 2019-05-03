@@ -3,33 +3,21 @@ author: pinetree408
 email: pinetree408@gmail.com
 baseurl: ""
 url: "http://pinetree408.github.io/"
-remote_theme: yous/whiteglass
-# theme: jekyll-whiteglass
+
 timezone: UTC
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - Rakefile
-  - spec
-  - vendor
-
-plugins:
-  - jekyll-archives
-  - jekyll-paginate
-  - jekyll-sitemap
 
 markdown: kramdown
 
-permalink: /:year/:month/:day/:title/
-paginate_path: /posts/:num/
-paginate: 5
+sass:
+    style: compressed
+    sass_dir: _sass
 
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: category_archives
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+nav:
+ - name: "Resume"
+   link: "https://bit.ly/2DM2s8d"
+ - name: "Contact"
+   link: "contact"
