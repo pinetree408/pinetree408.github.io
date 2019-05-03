@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+## Coping with Mode Errors in Dual-language Keyboard
+
+![Strategies and methods to deal with the input lan- guage mode error problem.](/images/KEME_Main.png)
+
+***
+
+In countries where languages with non-Latin characters are prevalent, people use a keyboard with two language modes namely, the native language and English, and often experience mode errors. To diagnose the mode error problem, we conducted a field study and observed that 78% of the mode errors occurred immediately after application switching. We implemented four methods (Auto-switch, Preview, Smart- toggle, and Preview & Smart-toggle) based on three strategies to deal with the mode error problem and conducted field studies to verify their effectiveness. In the studies considering Korean-English dual input, Auto-switch was ineffective. On the contrary, Preview significantly reduced the mode errors from 75.1% to 41.3%, and Smart-toggle saved typing cost for recovering from mode errors. In Preview & Smart-toggle, Preview reduced mode errors and Smart-toggle handled 86.2% of the mode errors that slipped past Preview. These results suggest that Preview & Smart-toggle is a promising method for preventing mode errors for the Korean-English dual-input environment.
+
+### Publication
+
+- Diagnosing and Coping with Mode Errors in Korean-English Dual-language Keyboard
+  - **Sangyoon Lee**, Jaeyeon Lee, Geehyuk Lee
+  - *CHI 2019*
+
+### Video
+
+Link: [Youtube](https://www.youtube.com/watch?v=nto8dsbKEPU)
