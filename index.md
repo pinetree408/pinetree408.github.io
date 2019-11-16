@@ -23,6 +23,22 @@ Human Computer Interaction, Text Entry, Pen-based Interaction
   - **Sangyoon Lee**
   - *KCC 2015*
 
+### Extended Abstracts: Demonstrations
+
+1. MirrorPad: A Touchpad for Direct Pen Interaction on a Laptop
+  - **Sangyoon** Lee and Geehyuk Lee
+  - *ISS 2019*
+
+## Awards
+
+1. Honorable Mention Demo Award
+  - Demonstration
+  - *ISS 2019*
+
+2. People’s Choice Award
+  - Student Innovation Contest
+  - *UIST 2017*
+
 ## Open Source Contribution
 
 1. Konlpy
@@ -31,9 +47,3 @@ Human Computer Interaction, Text Entry, Pen-based Interaction
 2. PinPoint (Naver)
   - Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java
   - 2014 -- Present
-
-## Awards
-
-1. People’s Choice award
-  - Student Innovation Contest
-  - *UIST 2017*
