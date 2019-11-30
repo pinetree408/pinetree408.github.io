@@ -31,11 +31,15 @@ Human Computer Interaction, Text Entry, Pen-based Interaction
 
 ## Awards
 
-1. Honorable Mention Demo Award
+1. NAVER PhD Fellowship Award
+  - Fellowship
+  - Naver 2019
+
+2. Honorable Mention Demo Award
   - Demonstration
   - *ISS 2019*
 
-2. People’s Choice Award
+3. People’s Choice Award
   - Student Innovation Contest
   - *UIST 2017*
 
