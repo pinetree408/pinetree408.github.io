@@ -33,7 +33,7 @@ Human Computer Interaction, Text Entry, Pen-based Interaction
 
 1. NAVER PhD Fellowship Award
   - Fellowship
-  - Naver 2019
+  - *Naver 2019*
 
 2. Honorable Mention Demo Award
   - Demonstration
