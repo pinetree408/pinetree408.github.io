@@ -19,14 +19,14 @@ Human Computer Interaction, Text Entry, Pen-based Interaction
 
 ### Domestic Conference
 
-1. An experimental comparison of user postures between tabletbased reading activities and book-based reading activities
+1. An experimental comparison of user postures between tablet-based reading activities and book-based reading activities
   - **Sangyoon Lee**
   - *KCC 2015*
 
 ### Extended Abstracts: Demonstrations
 
 1. MirrorPad: A Touchpad for Direct Pen Interaction on a Laptop
-  - **Sangyoon** Lee and Geehyuk Lee
+  - **Sangyoon Lee** and Geehyuk Lee
   - *ISS 2019*
 
 ## Awards
