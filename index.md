@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Sangyoon Lee
 ---
 
 ## Research Interests
