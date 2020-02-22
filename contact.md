@@ -6,6 +6,6 @@ is_contact: true
 
 * Email: [pinetree408@gmail.com](mailto:pinetree408@gmail.com)
 
-* Phone: [+82-1056578281](tel:+82-1056578281)
-
 * Github: [pinetree408](http://github.com/pinetree408)
+
+* Google Scholar: [Sangyoon Lee](https://scholar.google.com/citations?user=GSp2jNoAAAAJ)
