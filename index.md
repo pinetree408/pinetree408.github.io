@@ -31,7 +31,7 @@ Human-Computer Interaction, Touch Interface, Laptop-based Interaction, Voice Use
 
 ### Extended Abstracts: Demonstrations and Posters
 
-1. Verge-it: Gaze Interaction for a Binocular Head-Worn Display using Modulated Disparity Ver- gence Eye Movement
+1. Verge-it: Gaze Interaction for a Binocular Head-Worn Display using Modulated Disparity Vergence Eye Movement
   - Sunggeun Ahn, Jeongmin Son, **Sangyoon Lee** and Geehyuk Lee
   - *CHI 2020* (Accepted)
 
