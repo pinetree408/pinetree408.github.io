@@ -64,14 +64,14 @@ Human-Computer Interaction, Touch Interface, Laptop-based Interaction, Voice Use
 - CHI’ 19, MobileHCI’ 19, AH' 20
 
 
-## Teaching
+## Teaching Assistant
 
 - CS584 Human-Computer Interaction, Fall 2019
 - CS550 Software Engineering, Spring 2019
 - CS584 Human-Computer Interaction, Fall 2018
 - CS420 Compiler Design, Fall 2016
-- CS220 Programming Principles, Spring 2016
 - CS311 Computer Architecture, Fall 2016
+- CS220 Programming Principles, Spring 2016
 
 
 ## Open Source Contributions
