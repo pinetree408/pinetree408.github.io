@@ -14,11 +14,11 @@ Human-Computer Interaction, Touch Interface, Laptop-based Interaction, Voice Use
 
 1. MirrorPad: Mirror on Touchpad for Direct Pen Interaction in the Laptop Environment
   - **Sangyoon Lee**, Youn-kyung Lim, Geehyuk Lee
-  - *CHI 2020* (Accepted)
+  - *CHI 2020*
 
 2. Voice+Tactile: Augmenting In-vehicle Voice User Interface with Tactile Touchpad Interaction
   - Jingun Jung, **Sangyoon Lee**, Jiwoo Hong, Eunhye Youn, and Geehyuk Lee
-  - *CHI 2020* (Accepted)
+  - *CHI 2020*
 
 3. Diagnosing and Coping with Mode Errors in Korean-English Dual-language Keyboard
   - **Sangyoon Lee**, Jaeyeon Lee, Geehyuk Lee
@@ -33,7 +33,7 @@ Human-Computer Interaction, Touch Interface, Laptop-based Interaction, Voice Use
 
 1. Verge-it: Gaze Interaction for a Binocular Head-Worn Display using Modulated Disparity Vergence Eye Movement
   - Sunggeun Ahn, Jeongmin Son, **Sangyoon Lee** and Geehyuk Lee
-  - *CHI 2020* (Accepted)
+  - *CHI 2020*
 
 2. MirrorPad: A Touchpad for Direct Pen Interaction on a Laptop
   - **Sangyoon Lee** and Geehyuk Lee
