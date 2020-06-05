@@ -39,17 +39,22 @@ Human-Computer Interaction, Touch Interface, Laptop-based Interaction, Voice Use
   - **Sangyoon Lee** and Geehyuk Lee
   - *ISS 2019*
 
+
 ## Awards
 
-1. NAVER PhD Fellowship Award
+1. KAIST & Google Partnership Student Travel Grant
+  - Student Travel Grant
+  - *KAIST & Google 2020*
+
+2. NAVER PhD Fellowship Award
   - Fellowship
   - *Naver 2019*
 
-2. Honorable Mention Demo Award
+3. Honorable Mention Demo Award
   - Demonstration
   - *ISS 2019*
 
-3. People’s Choice Award
+4. People’s Choice Award
   - Student Innovation Contest
   - *UIST 2017*
 
