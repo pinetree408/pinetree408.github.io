@@ -12,19 +12,23 @@ Human-Computer Interaction, Touch Interface, Laptop-based Interaction, Voice Use
 
 ### International Conference
 
-1. MirrorPad: Mirror on Touchpad for Direct Pen Interaction in the Laptop Environment
+1. FS-Pad: Video Game Interactions with a Force Feedback Gamepad
+  - Youngbo Aram Shim, Keunwoo Park, **Sangyoon Lee**, Jeongmin Son, Taeyun Woo and Geehyuk Lee
+  - *UIST 2020 (Accepted)*
+
+2. MirrorPad: Mirror on Touchpad for Direct Pen Interaction in the Laptop Environment
   - **Sangyoon Lee**, Youn-kyung Lim, Geehyuk Lee
   - *CHI 2020*
 
-2. Voice+Tactile: Augmenting In-vehicle Voice User Interface with Tactile Touchpad Interaction
+3. Voice+Tactile: Augmenting In-vehicle Voice User Interface with Tactile Touchpad Interaction
   - Jingun Jung, **Sangyoon Lee**, Jiwoo Hong, Eunhye Youn, and Geehyuk Lee
   - *CHI 2020*
 
-3. Diagnosing and Coping with Mode Errors in Korean-English Dual-language Keyboard
+4. Diagnosing and Coping with Mode Errors in Korean-English Dual-language Keyboard
   - **Sangyoon Lee**, Jaeyeon Lee, Geehyuk Lee
   - *CHI 2019*
 
-4. Auto-switching List Search Interface for Touchscreen Smartwatches
+5. Auto-switching List Search Interface for Touchscreen Smartwatches
   - Jingun Jung, **Sangyoon Lee**, Sunggeun Ahn, and Geehyuk Lee
   - *MobileHCI 2018*
 
