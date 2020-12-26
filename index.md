@@ -14,7 +14,7 @@ Human-Computer Interaction, Touch Interface, Laptop-based Interaction, Voice Use
 
 1. FS-Pad: Video Game Interactions with a Force Feedback Gamepad
   - Youngbo Aram Shim, Keunwoo Park, **Sangyoon Lee**, Jeongmin Son, Taeyun Woo and Geehyuk Lee
-  - *UIST 2020 (Accepted)*
+  - *UIST 2020*
 
 2. MirrorPad: Mirror on Touchpad for Direct Pen Interaction in the Laptop Environment
   - **Sangyoon Lee**, Youn-kyung Lim, Geehyuk Lee
