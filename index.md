@@ -12,23 +12,27 @@ Human-Computer Interaction, Touch Interface, Laptop-based Interaction, Voice Use
 
 ### International Conference
 
-1. FS-Pad: Video Game Interactions with a Force Feedback Gamepad
-  - Youngbo Aram Shim, Keunwoo Park, **Sangyoon Lee**, Jeongmin Son, Taeyun Woo and Geehyuk Lee
+1. ThroughHand: 2D Tactile Interaction to Simultaneously Recognize and Touch Multiple Objects
+  - Jingun Jung, Sunmin Son, **Sangyoon Lee**, Yeonsu Kim, and Geehyuk Lee
+  - *CHI 2021*
+
+2. FS-Pad: Video Game Interactions with a Force Feedback Gamepad
+  - Youngbo Aram Shim, Keunwoo Park, **Sangyoon Lee**, Jeongmin Son, Taeyun Woo, and Geehyuk Lee
   - *UIST 2020*
 
-2. MirrorPad: Mirror on Touchpad for Direct Pen Interaction in the Laptop Environment
-  - **Sangyoon Lee**, Youn-kyung Lim, Geehyuk Lee
+3. MirrorPad: Mirror on Touchpad for Direct Pen Interaction in the Laptop Environment
+  - **Sangyoon Lee**, Youn-kyung Lim, and Geehyuk Lee
   - *CHI 2020*
 
-3. Voice+Tactile: Augmenting In-vehicle Voice User Interface with Tactile Touchpad Interaction
+4. Voice+Tactile: Augmenting In-vehicle Voice User Interface with Tactile Touchpad Interaction
   - Jingun Jung, **Sangyoon Lee**, Jiwoo Hong, Eunhye Youn, and Geehyuk Lee
   - *CHI 2020*
 
-4. Diagnosing and Coping with Mode Errors in Korean-English Dual-language Keyboard
-  - **Sangyoon Lee**, Jaeyeon Lee, Geehyuk Lee
+5. Diagnosing and Coping with Mode Errors in Korean-English Dual-language Keyboard
+  - **Sangyoon Lee**, Jaeyeon Lee, and Geehyuk Lee
   - *CHI 2019*
 
-5. Auto-switching List Search Interface for Touchscreen Smartwatches
+6. Auto-switching List Search Interface for Touchscreen Smartwatches
   - Jingun Jung, **Sangyoon Lee**, Sunggeun Ahn, and Geehyuk Lee
   - *MobileHCI 2018*
 
