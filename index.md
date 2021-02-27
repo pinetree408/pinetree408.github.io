@@ -74,11 +74,12 @@ Human-Computer Interaction, Touch Interface, Laptop-based Interaction, Voice Use
 
 ## Academic Services
 
-- CHI’ 19, MobileHCI’ 19, AH' 20
+- AH' 20, CHI’ 19, MobileHCI’ 19
 
 
 ## Teaching Assistant
 
+- CS330 Operating Systems and Lab, Fall 2020
 - CS584 Human-Computer Interaction, Fall 2019
 - CS550 Software Engineering, Spring 2019
 - CS584 Human-Computer Interaction, Fall 2018
