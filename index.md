@@ -50,19 +50,23 @@ Human-Computer Interaction, Touch Interface, Laptop-based Interaction, Voice Use
 
 ## Awards
 
-1. KAIST & Google Partnership Student Travel Grant
-  - Student Travel Grant
-  - *KAIST & Google 2020*
+1. Honorable Mention Award
+  - Paper
+  - *CHI 2021*
 
-2. NAVER PhD Fellowship Award
+2. Google Partnership Student Travel Grant
+  - Student Travel Grant
+  - *Google 2020*
+
+3. NAVER PhD Fellowship Award
   - Fellowship
   - *Naver 2019*
 
-3. Honorable Mention Demo Award
+4. Honorable Mention Demo Award
   - Demonstration
   - *ISS 2019*
 
-4. People’s Choice Award
+5. People’s Choice Award
   - Student Innovation Contest
   - *UIST 2017*
 
