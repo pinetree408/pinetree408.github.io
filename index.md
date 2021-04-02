@@ -54,7 +54,7 @@ Human-Computer Interaction, Touch Interface, Laptop-based Interaction, Voice Use
   - Paper
   - *CHI 2021*
 
-2. Google Partnership Student Travel Grant
+2. Google Student Travel Grant
   - Student Travel Grant
   - *Google 2020*
 
