@@ -10,29 +10,33 @@ Human-Computer Interaction, Touch Interface, Laptop-based Interaction, Voice Use
 
 ## Publications
 
-### International Conference
+### Peer-reviewed Conference and Journal Papers
 
-1. ThroughHand: 2D Tactile Interaction to Simultaneously Recognize and Touch Multiple Objects
+1. WristDial: An Eyes-Free Integer-Value Input Method by Quantizing the Wrist Rotation
+  - Eunhye Youn, **Sangyoon Lee**, Sunbum Kim, Youngbo Aram Shim, Liwei Chan, Geehyuk Lee
+  - *International Journal of Human-Computer Interaction*
+  
+2. ThroughHand: 2D Tactile Interaction to Simultaneously Recognize and Touch Multiple Objects
   - Jingun Jung, Sunmin Son, **Sangyoon Lee**, Yeonsu Kim, and Geehyuk Lee
   - *CHI 2021*
 
-2. FS-Pad: Video Game Interactions with a Force Feedback Gamepad
+3. FS-Pad: Video Game Interactions with a Force Feedback Gamepad
   - Youngbo Aram Shim, Keunwoo Park, **Sangyoon Lee**, Jeongmin Son, Taeyun Woo, and Geehyuk Lee
   - *UIST 2020*
 
-3. MirrorPad: Mirror on Touchpad for Direct Pen Interaction in the Laptop Environment
+4. MirrorPad: Mirror on Touchpad for Direct Pen Interaction in the Laptop Environment
   - **Sangyoon Lee**, Youn-kyung Lim, and Geehyuk Lee
   - *CHI 2020*
 
-4. Voice+Tactile: Augmenting In-vehicle Voice User Interface with Tactile Touchpad Interaction
+5. Voice+Tactile: Augmenting In-vehicle Voice User Interface with Tactile Touchpad Interaction
   - Jingun Jung, **Sangyoon Lee**, Jiwoo Hong, Eunhye Youn, and Geehyuk Lee
   - *CHI 2020*
 
-5. Diagnosing and Coping with Mode Errors in Korean-English Dual-language Keyboard
+6. Diagnosing and Coping with Mode Errors in Korean-English Dual-language Keyboard
   - **Sangyoon Lee**, Jaeyeon Lee, and Geehyuk Lee
   - *CHI 2019*
 
-6. Auto-switching List Search Interface for Touchscreen Smartwatches
+7. Auto-switching List Search Interface for Touchscreen Smartwatches
   - Jingun Jung, **Sangyoon Lee**, Sunggeun Ahn, and Geehyuk Lee
   - *MobileHCI 2018*
 
