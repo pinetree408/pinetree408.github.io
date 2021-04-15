@@ -14,7 +14,7 @@ Human-Computer Interaction, Touch Interface, Laptop-based Interaction, Voice Use
 
 1. WristDial: An Eyes-Free Integer-Value Input Method by Quantizing the Wrist Rotation
   - Eunhye Youn, **Sangyoon Lee**, Sunbum Kim, Youngbo Aram Shim, Liwei Chan, Geehyuk Lee
-  - *International Journal of Human-Computer Interaction*
+  - *IJHCI 2021*
   
 2. ThroughHand: 2D Tactile Interaction to Simultaneously Recognize and Touch Multiple Objects
   - Jingun Jung, Sunmin Son, **Sangyoon Lee**, Yeonsu Kim, and Geehyuk Lee
