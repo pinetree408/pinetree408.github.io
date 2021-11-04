@@ -5,7 +5,7 @@ title: Sangyoon Lee
 
 ## Research Interests
 
-Human-Computer Interaction, Touch Interface, Laptop-based Interaction, Voice User Interface, Dual-language-based Interface 
+Touch Interface, Laptop-based Interaction, Voice User Interface, Dual-language-based Interface 
 
 
 ## Publications
