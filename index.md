@@ -77,12 +77,13 @@ Laptop-based Interaction, Pen-based Interface, Touch Interface, Voice User Inter
 
 ## Invited Talks
 
+- 2D Tactile Interaction to Simultaneously Recognize and Touch Multiple Objects, HCI Korea, 2022
 - Coping with Mode Errors in Dual-language Keyboard, Hancom TechDay, 2019
 
 
 ## Academic Services
 
-- AH' 20, CHI’ 19, MobileHCI’ 19
+- CHI' 22, AH' 20, CHI’ 19, MobileHCI’ 19
 
 
 ## Teaching Assistant
